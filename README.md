@@ -1,4 +1,4 @@
-# Phase Mobile
+# DayPrimer Mobile
 
 ## Developer Environment
 
